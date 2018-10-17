@@ -1,0 +1,12 @@
+name: WeeklyReport
+title: WeeklyReport
+username:
+account: bryannoreen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 519082
+bundleId: 1647694
+url: https://bryannoreen.shinyapps.io/WeeklyReport/
+when: 1539784774.1168
+asMultiple: FALSE
+asStatic: FALSE
